@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog! okokok
+theme: minima
+title: nobregapmo's personal blog
+description: This is where I share cool stuff about my life
+author: nobregapmo
 ---
